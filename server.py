@@ -200,5 +200,5 @@ class Server:
 
 
 if __name__ == '__main__':
-	ser = Server(host="0.0.0.0", port=8000)
+	ser = Server(host="0.0.0.0", port=8080)
 	ser.start()
